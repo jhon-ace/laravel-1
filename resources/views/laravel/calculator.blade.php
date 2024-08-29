@@ -7,7 +7,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body>
-    <h1 class="font-bold text-center mx-auto uppercase mb-10">Arithmetic Calculator</h1>
+    <h1 class="font-bold text-center mx-auto uppercase mb-10">Arithmetic Calculator Diay Ni</h1>
     <div class="mx-auto mt-5 text-center">
         <form action="">
             <label for="num1" class=""
